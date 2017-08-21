@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InventoryApplication</string>
+    <string name="add">Add New Product</string>
+    <string name="no_item">No Item to be Shown</string>
+    <string name="name_of_the_product">Name of the Product</string>
+    <string name="quantity">Quantity : </string>
+    <string name="price">Price : </string>
+    <string name="order_from_the_supplier">Order From Supplier</string>
+    <string name="delete">Delete</string>
+    <string name="done">Done</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="cursor_id">1</string>
+    <string name="quantity_id">2</string>
+    <string name="failed">failed</string>
+
+</resources>
